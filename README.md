@@ -1,4 +1,4 @@
-# Statistics
+# Portfolio
 A set of scripts, functions and classes related with statistical learning, ML, DL and dataviz developed by me a.k.a. Moyocoyani Molina-Espíritu.
 
 This functions are open source and available for anyone. The main idea for this repositories is two folded.
