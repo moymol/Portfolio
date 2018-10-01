@@ -2,7 +2,9 @@
 title: "Catalog of plots"
 author: "Moycoyani Molina-Espíritu"
 date: "October 01, 2018"
-output: html_document
+output:
+    github_document:
+    html_preview: false
 ---
 
 ```{r setup, include=FALSE}
